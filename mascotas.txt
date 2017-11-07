@@ -1,0 +1,26 @@
+﻿0001,Boby,perro,bullterrier,m,1,0001
+0002,John,perro,pitbull,m,2,0001
+0003,Carli,perro,puddle,f,6,0002
+0004,Bob,gato,siames,m,3,0002
+0005,Alas,ave,perico,f,2,0003
+0006,FuerzaG,hamster,enano ruso,f,1,0004
+0007,Chico,perro,schnauzer,m,5,0004
+0008,Grandote,perro,staffordshire,m,8,0005
+0009,Linda,conejo,cabeza de leon,f,1,0006
+0010,Lula,gato,montes,f,3,0006
+0011,Bux,conejo,holandes,m,2,0007
+0012,Gordo,perro,bulldog,m,2,0008
+0013,SuperCan,perro,beagle,m,4,0008
+0014,Volador,ave,canario,m,1,0009
+0015,Pequeño,hamster,dorado,f,1,0009
+0016,Shultz,gato,arabe,m,3,0010
+0017,HotDog,perro,chihuahueño,f,8,0010
+0018,Bengala,gato,bengala,f,4,0011
+0019,Cacahuate,ave,cacatuas,m,2,0011
+0020,Fisi,gato,persa,f,9,0012
+0021,Dus,perro,golden retriver,m,12,0013
+0022,Lila,gato,abisinio,f,3,0013
+0023,Lili,ave,ninfas,f,1,0014
+0024,Cano,perro,caniche,m,2,0015
+0025,Manchas,perro,dalmata,m,2,0007
+0026,boby,perro,bull terrier,m,3,0007

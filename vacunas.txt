@@ -1,0 +1,21 @@
+perro,moquillo
+perro,parvovirosis
+perro,hepatitis
+perro,leptospirosis
+perro,rabia
+perro,traqueobronquitis
+perro,piroplasmosis
+perro,caronavirus
+gato,rinotraquetitis viral felina
+gato,calcivirus
+gato,panleucopenia
+gato,leucemia felina
+gato,rabia
+ave,salmoneolis aviar
+ave,bronquitis infecciosa
+ave,enfermedad de newcastle
+ave,coriza infeccioso
+ave,differoviruela aviar
+ave,sindrome cabeza inchada
+conejo,hemorragia virica
+conejo,mixtomatosis
